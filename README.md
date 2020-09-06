@@ -1,12 +1,16 @@
-# COMPLETE HACK FOR PUBG USING C#
+# PUBGM-ESP-AIMBOT-PC-Gameloop
+Gameloop PC Pubg Mobile 0.19.0 ESP &amp; AIMBOT Hack using BypaPH, bypasses process read/write restrictions.
 
-Gameloop PC Pubg Mobile 0.19.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasses process read/write restrictions.
-`
+# Youtube Video
 
+https://youtu.be/mcQArbpJEjE
 
-## Features:
+# Tools:
+- C#
+- VS2019
+
+Features:
 - Player ESP (2d box, 3d box,skeleton, ignore teammate, identify bot)
-- Scans For Players In A Radius Of 500m Every 10 Seconds 
 - Item/Lootbox ESP
 - Vehicle ESP
 - Grenade Alert
@@ -15,30 +19,14 @@ Gameloop PC Pubg Mobile 0.19.0 ESP &amp; AIMBOT Hack using using BypaPH, bypasse
 - Enemy State
 - Enemy Weapon
 
-## Contact 
-- Discord-(error_434#6498)
+# Contact 
+- Discord Only : Ahmed Moorsy#6939
 
-
-## NOTE
-
-* CPU Usage Will Be About 10%-20%.
-
-## Requirements
-
-* Visual Studio 2015 Or Up(Any Version).
-* Dirext X SDK(2010).
-* BlueStack or LDPlayer Emulator.
-* PUBG Mobile 0.18 Or Above
-
-## How To Use
-
-* Clone The Source Project .
-
-* In Visual Studio Go to Project -> Properties -> VC++ Directories -> Include Directories And Put The Path Of Directx. 
-    For Example My Path Is C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include
-
-* In Same Window Go To Library Directories And Put The Path Of DirectX Library Folder 
-  For Example My Path Is C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86
-
-* Use x86 Debug Type.
-
+# References :-
+- Google.
+- Youtube.
+- unknowncheats.
+- https://github.com/fly8888/pubg-mobile-esp
+- https://github.com/huddhudd/crappy-esp
+- https://www.unknowncheats.me/forum/pubg-mobile/354946-source-code-esp-pubg-mobile-0-16-5-safu_iraq.html
+- https://www.unknowncheats.me/forum/pubg-mobile/379241-esp-source-pubgm-v0-17-0-gameloop.html
