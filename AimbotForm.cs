@@ -1,9 +1,4 @@
-﻿// by error434
-// copyrighted © 2020
-// This is script is to be used for ethical purposes only
-
-
-using System;
+﻿using System;
 using System.Text;
 using GameOverlay.Drawing;
 using GameOverlay.Windows;

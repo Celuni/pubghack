@@ -1,9 +1,4 @@
-﻿// by error434
-// copyrighted © 2020
-// This is script is to be used for ethical purposes only
-
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -83,7 +78,7 @@ namespace PUBGMESP
         [Description("[Med] Enegy Drink")]
         EnegyDrink,
         [Description("[Med] Epinephrine")]
-        AdrenalineSyringe,
+        Epinephrine,
         [Description("[Med] Pain Killer")]
         PainKiller,
         [Description("[Med] First Aid Kit")]
